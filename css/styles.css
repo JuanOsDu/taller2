@@ -11436,12 +11436,27 @@ html {
   font-size: 1.5rem;
   color: #6c757d;
 }
+#about{
+  background-color: #1e2125 !important;
+}
+#portfolio{
+  background-color: #1e2125 !important;
+}
+
+
+footer {
+  background-image: url(https://fondosmil.com/fondo/28454.jpg);
+  background-size: 100%;
+ 
+  
+  color: black;
+}
 .masthead {
   background-image: url(https://fondosmil.com/fondo/28454.jpg);
   background-size: 100%;
  
-  border: 2px solid;
-  color: pink;
+  
+  color: black;
 }
 .masthead {
   background-color: #1e2125 !important;
